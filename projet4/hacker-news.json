@@ -1,0 +1,82 @@
+[
+  {
+    "rank": 1,
+    "title": "Why our website looks like an operating system",
+    "url": "https://posthog.com/blog/why-os",
+    "score": "169 points",
+    "user": "bnc319",
+    "scrapedAt": "2025-09-12T06:20:46.467Z"
+  },
+  {
+    "rank": 2,
+    "title": "Danish supermarket chain is setting up \"Emergency Stores\"",
+    "url": "https://swiss.social/@swaldorff/115186445638788782",
+    "score": "223 points",
+    "user": "sohkamyung",
+    "scrapedAt": "2025-09-12T06:20:47.946Z"
+  },
+  {
+    "rank": 3,
+    "title": "Float Exposed",
+    "url": "https://float.exposed/",
+    "score": "92 points",
+    "user": "SomaticPirate",
+    "scrapedAt": "2025-09-12T06:20:49.178Z"
+  },
+  {
+    "rank": 4,
+    "title": "Top model scores may be skewed by Git history leaks in SWE-bench",
+    "url": "https://github.com/SWE-bench/SWE-bench/issues/465",
+    "score": "352 points",
+    "user": "mustaphah",
+    "scrapedAt": "2025-09-12T06:20:50.934Z"
+  },
+  {
+    "rank": 5,
+    "title": "Nano Banana image examples",
+    "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md",
+    "score": "368 points",
+    "user": "SweetSoftPillow",
+    "scrapedAt": "2025-09-12T06:20:52.147Z"
+  },
+  {
+    "rank": 6,
+    "title": "De-Clouding: Music",
+    "url": "https://rosswintle.uk/2025/09/de-clouding-music/",
+    "score": "36 points",
+    "user": "surprisetalk",
+    "scrapedAt": "2025-09-12T06:20:53.650Z"
+  },
+  {
+    "rank": 7,
+    "title": "Xhtml Friends Network (2003)",
+    "url": "https://gmpg.org/xfn/",
+    "score": "16 points",
+    "user": "thinkingemote",
+    "scrapedAt": "2025-09-12T06:20:54.936Z"
+  },
+  {
+    "rank": 8,
+    "title": "Debian 13, Postgres, and the US time zones",
+    "url": "https://rachelbythebay.com/w/2025/09/11/debtz/",
+    "score": "34 points",
+    "user": "move-on-by",
+    "scrapedAt": "2025-09-12T06:20:56.222Z"
+  },
+  {
+    "rank": 9,
+    "title": "Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook",
+    "url": "https://github.com/iannuttall/fartscroll-lid",
+    "score": "187 points",
+    "user": "gaws",
+    "scrapedAt": "2025-09-12T06:20:57.624Z"
+  },
+  {
+    "rank": 10,
+    "title": "Claude’s memory architecture is the opposite of ChatGPT’s",
+    "url": "https://www.shloked.com/writing/claude-memory",
+    "score": "291 points",
+    "user": "shloked",
+    "scrapedAt": "2025-09-12T06:20:59.064Z"
+  }
+]
