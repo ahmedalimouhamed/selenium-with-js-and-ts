@@ -1,0 +1,31 @@
+{
+    "homePage": {
+        "username": "#user-name",
+        "password": "#password",
+        "loginButton": "#login-button",
+        "menuButton": "#react-burger-menu-btn",
+        "logoutLink": "#logout_sidebar_link"
+    },
+
+    "productsPage": {
+        "items": ".inventory_item",
+        "names": ".inventory_item_name",
+        "prices": ".inventory_item_price",
+        "addButtons": ".btn_inventory",
+        "cartBadge": ".shopping_cart_badge"
+    }, 
+
+    "cartPage": {
+        "items": ".cart_item",
+        "checkoutButton": ".checkout_button",
+        "continueShopping": ".continue_shopping"
+    },
+
+    "checkoutPage": {
+        "firstName": "#first-name",
+        "lastName": "#last-name",
+        "postalCode": "#postal-code",
+        "continueButton": ".continue",
+        "finishButton": ".finish"
+    }
+}

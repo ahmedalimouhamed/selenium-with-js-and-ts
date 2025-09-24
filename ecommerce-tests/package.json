@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:smoke": "node run.js --suite smoke",
+    "test:regression": "node run.js --suite regression",
+    "test:all": "node run.js --suite all",
+    "test:chrome": "node run.js --browser chrome",
+    "test:firefox": "node run.js --browser firefox",
+    "report": "open reports/test-report.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chromedriver": "^140.0.3",
+    "geckodriver": "^6.0.1",
+    "selenium-webdriver": "^4.35.0"
+  }
+}
